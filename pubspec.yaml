@@ -1,0 +1,17 @@
+name: blowfish_cbc
+description: A Blowfish CBC codec implementation in pure Dart.
+version: 0.1.0
+homepage: https://github.com/edrianolima/blowfish_cbc.dart
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  meta: ^1.10.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
