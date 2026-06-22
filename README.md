@@ -4,6 +4,8 @@
 <a href="https://pub.dev/packages/blowfish_cbc"><img src="https://img.shields.io/pub/v/blowfish_cbc" alt="pub: blowfish_cbc"></a>
 <a href="https://www.gnu.org/licenses/lgpl-3.0.html"><img src="https://img.shields.io/badge/license-LGPL%20v3.0-green.svg" alt="License: LGPL v3.0"></a>
 <a href="https://pub.dev/packages/lint"><img src="https://img.shields.io/badge/style-lint-4BC0F5.svg" alt="style: lint"></a>
+<a href="https://pub.dev/packages/blowfish_cbc/score"><img src="https://img.shields.io/pub/likes/blowfish_cbc" alt="pub likes"></a>
+<a href="https://pub.dev/packages/blowfish_cbc/score"><img src="https://img.shields.io/pub/points/blowfish_cbc" alt="pub points"></a>
 </p>
 
 A pure Dart [Codec](https://api.dart.dev/stable/2.10.4/dart-convert/Codec-class.html)
@@ -28,7 +30,7 @@ print('Decrypted: "$decrypted"');
 ```
 
 ## License
-This project is licensed under the GNU Lesser General Public License v3.0 - see the [LICENSE](LICENSE) and [`LICENCE.LESSER`](LICENSE.LESSER) file for details.
+This project is licensed under the GNU Lesser General Public License v3.0 - see the [LICENSE](LICENSE) and [`LICENSE.LESSER`](LICENSE.LESSER) files for details.
 
 Essentially, if this package is modified in your project, the modified package
 sources must be released.
